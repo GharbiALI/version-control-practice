@@ -1,2 +1,2 @@
 # My HTML Practice Project
-This repository contans my exercices for learning HTML and git.
+This repository contains my exercises for learning HTML and Git.
